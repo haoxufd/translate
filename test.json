@@ -1,0 +1,33 @@
+[
+    {
+        "image": "/remote-home/share/datasets/IU_X-ray/NLMCXR_png/CXR436_IM-2076-1001-0001.png",
+        "caption": [
+            "Borderline heart size.",
+            "Calcified aorta.",
+            "No active pulmonary edema or lobar pneumonia.",
+            "Probable large retrocardiac hiatal hernia."
+        ]
+    },
+    {
+        "image": "/remote-home/share/datasets/IU_X-ray/NLMCXR_png/CXR481_IM-2105-1001.png",
+        "caption": [
+            "Left PICC line tip near junction of brachiocephalic vein and SVC; repositioning with a slight advancement may be helpful.",
+            "There is a tortuous atherosclerotic aorta.",
+            "Large lung volumes with widened AP diameter of the chest, XXXX due to COPD; recommend clinical correlation.",
+            "Diffuse XXXX bronchial calcification and with mild atherosclerotic calcification.",
+            "No evidence of pulmonary consolidation, large pleural effusion/pneumothorax.",
+            "there is degenerative changes at the XXXX joints.",
+            "Osteopenia.",
+            "Degenerative changes of the cervical spine with possible fusion in the lower cervical region."
+        ]
+    },
+    {
+        "image": "/remote-home/share/datasets/IU_X-ray/NLMCXR_png/CXR2902_IM-1306-3001.png",
+        "caption": [
+            "The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits.",
+            "There is no acute air space infiltrate, pleural effusion or pneumothorax.",
+            "The visualized osseous structures are intact.",
+            "No acute cardiopulmonary process."
+        ]
+    }
+]
